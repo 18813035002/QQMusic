@@ -1,0 +1,128 @@
+[
+{
+    "name": "印记",
+    "singer": "夏婉安",
+    "album": "印记",
+    "time": "01:16",
+    "link_url": "./source/yinji.mp3",
+    "cover": "./source/yinji.jpg",
+    "link_lrc": "./source/yinji.txt"
+},
+{
+    "name": "退",
+    "singer": "蒋家驹",
+    "album": "庸医",
+    "time": "04:01",
+    "link_url": "./source/tui.mp3",
+    "cover": "./source/tui.jpg",
+    "link_lrc": "./source/tui.txt"
+},
+{
+    "name": "候鸟",
+    "singer": "饶威",
+    "album": "候鸟",
+    "time": "04:47",
+    "link_url": "./source/houniao.mp3",
+    "cover": "./source/houniao.jpg",
+    "link_lrc": "./source/houniao.txt"
+},
+{
+    "name": "最好的我",
+    "singer": "房祖名&龚芝怡",
+    "album": "乱",
+    "time": "05:13",
+    "link_url": "./source/最好的我.mp3",
+    "cover": "./source/最好的我.jpg",
+    "link_lrc": "./source/最好的我.txt"
+},
+{
+    "name": "醉乡",
+    "singer": "郑秀文",
+    "album": "Holday",
+    "time": "03:35",
+    "link_url": "./source/醉乡.mp3",
+    "cover": "./source/醉乡.jpg",
+    "link_lrc": "./source/醉乡.txt"
+},
+{
+    "name": "贴身侍卫",
+    "singer": "冷漠&云菲菲",
+    "album": "冒字音乐",
+    "time": "03:17",
+    "link_url": "./source/贴身侍卫.mp3",
+    "cover": "./source/贴身侍卫.jpg",
+    "link_lrc": "./source/贴身侍卫.txt"
+},
+{
+    "name": "爱过了",
+    "singer": "六仔",
+    "album": "期盼这一天",
+    "time": "04:36",
+    "link_url": "./source/爱过了.mp3",
+    "cover": "./source/爱过了.jpg",
+    "link_lrc": "./source/爱过了.txt"
+},
+{
+    "name": "我不懂爱",
+    "singer": "许志安",
+    "album": "爱",
+    "time": "05:12",
+    "link_url": "./source/我不懂爱.mp3",
+    "cover": "./source/我不懂爱.jpg",
+    "link_lrc": "./source/我不懂爱.txt"
+},
+{
+    "name": "我是风筝",
+    "singer": "郑智化",
+    "album": "游戏人间",
+    "time": "04:27",
+    "link_url": "./source/我是风筝.mp3",
+    "cover": "./source/我是风筝.jpg",
+    "link_lrc": "./source/我是风筝.txt"
+},
+{
+    "name": "懒洋洋",
+    "singer": "高枫",
+    "album": "美丽新世界",
+    "time": "02:25",
+    "link_url": "./source/懒洋洋.mp3",
+    "cover": "./source/懒洋洋.jpg",
+    "link_lrc": "./source/懒洋洋.txt"
+},
+{
+    "name": "你若懂我",
+    "singer": "郭桓宇",
+    "album": "你若懂我",
+    "time": "04:32",
+    "link_url": "./source/你若懂我.mp3",
+    "cover": "./source/你若懂我.jpg",
+    "link_lrc": "./source/你若懂我.txt"
+},
+{
+    "name": "玛丽莲梦露",
+    "singer": "胡彦斌",
+    "album": "一呼天下",
+    "time": "04:55",
+    "link_url": "./source/玛丽莲梦露.mp3",
+    "cover": "./source/玛丽莲梦露.jpg",
+    "link_lrc": "./source/玛丽莲梦露.txt"
+},
+{
+    "name": "伤离别",
+    "singer": "暴林",
+    "album": "伤离别",
+    "time": "04:05",
+    "link_url": "./source/伤离别.mp3",
+    "cover": "./source/伤离别.jpg",
+    "link_lrc": "./source/伤离别.txt"
+},
+{
+    "name": "鹰",
+    "singer": "王祖蓝",
+    "album": "All About Loving You",
+    "time": "03:17",
+    "link_url": "./source/鹰.mp3",
+    "cover": "./source/鹰.jpg",
+    "link_lrc": "./source/鹰.txt"
+}
+]
